@@ -1,0 +1,1 @@
+/workspaces/rustsrping2025/a1Temperature_converter/target/release/a1Temperature_converter: /workspaces/rustsrping2025/a1Temperature_converter/src/main.rs
