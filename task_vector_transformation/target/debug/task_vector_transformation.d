@@ -1,0 +1,1 @@
+/workspaces/rustsrping2025/task_vector_transformation/target/debug/task_vector_transformation: /workspaces/rustsrping2025/task_vector_transformation/src/main.rs
