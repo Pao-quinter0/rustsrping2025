@@ -1,0 +1,1 @@
+/workspaces/rustsrping2025/task_environment_capture/target/debug/task_environment_capture: /workspaces/rustsrping2025/task_environment_capture/src/main.rs
