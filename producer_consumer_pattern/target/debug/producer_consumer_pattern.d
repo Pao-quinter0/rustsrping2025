@@ -1,0 +1,1 @@
+/workspaces/rustsrping2025/producer_consumer_pattern/target/debug/producer_consumer_pattern: /workspaces/rustsrping2025/producer_consumer_pattern/src/main.rs
